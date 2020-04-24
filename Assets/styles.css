@@ -1,0 +1,24 @@
+body {
+    /* Found this block of code from the following website to help with organization and background using bootstrap
+    https://startbootstrap.com/snippets/full-image-background/ */
+    background: #28a745;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  #profile-pic {
+    max-height: 100%;
+    min-width: 100%;
+  }
+
+  /* Creating this class allowed me to be able to style the labels on my photos in the portfolio.html file. */
+  .card-image {
+    background-color: #888D9D;
+    color: white;
+    border-radius: 25px;
+  }
+
+
+  
