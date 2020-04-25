@@ -15,7 +15,7 @@ body {
 
   /* Creating this class allowed me to be able to style the labels on my photos in the portfolio.html file. */
   .card-image {
-    background-color: #888D9D;
+    background-color: black;
     color: white;
     border-radius: 25px;
   }
