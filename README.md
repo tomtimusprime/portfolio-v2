@@ -1,4 +1,6 @@
 Deployed Link: https://tomtimusprime.github.io/portfolio-v2/
+Version 2 of my portfolio site - included my resume, and updated bio, and 3 of my most recent coding projects and my github information. 
+
 # Unit 08 Project 1 Homework: Professional Materials
 
 Requirements
