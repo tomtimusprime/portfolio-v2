@@ -1,7 +1,7 @@
 body {
     /* Found this block of code from the following website to help with organization and background using bootstrap
     https://startbootstrap.com/snippets/full-image-background/ */
-    background: #28a745;
+    background: linear-gradient(to right bottom, rgba(126,213,111,0.8), rgba(40,180, 131,0.8));
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
